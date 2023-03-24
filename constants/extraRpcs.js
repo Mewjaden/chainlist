@@ -194,7 +194,7 @@ export const extraRpcs = {
       //"https://main-rpc.linkpool.io/",
       "https://mainnet.eth.cloud.ava.do/",
       "https://ethereumnodelight.app.runonflux.io",
-      "https://eth-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf",
+      "https://eth-mainnet.rpcfast.com?api_key=hi hi",
       //"http://18.211.207.34:8545",
       "https://main-light.eth.linkpool.io",
     ],
